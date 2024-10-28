@@ -7,12 +7,12 @@ extra = {header_img = "https://live.staticflickr.com/65535/53172437245_05e6f6935
 
 # Wanderings
 
-Photography, for me, began with wandering around the streets of Bangalore. Equipped with a camera and a dogged determination to capture the everyday unseen beauty around us I spent countless hours looking for an image. Approaching people on the streets to strike up candid conversation worked as a therapy and meditative practice. But it remained a naive pursuit of the still image, only interacting superficially with the environment around me. Nevertheless it did produce some photographs I cherish.
+Photography, for me, began with wandering around the streets of Bangalore. Equipped with a camera and a dogged determination to capture the everyday unseen beauty around us I spent countless hours looking for an image. Approaching people on the streets to strike up candid conversation worked as therapy and meditative practice. But it remained a naive pursuit of the still image, only interacting superficially with the environment around me. Nevertheless it did produce some photographs I cherish.
 
 
 ## Streets (Bangalore and beyond)
 
-Teeming with 15 million lives and growing everyday, Bangalore is my home. Brimming with stories of people from all corners of the world who are economic migrants first and assimilated locals second, the richness and diversity of the street presents great opportunities for a photographer.
+Teeming with 15 million lives and growing everyday, Bangalore is my home. The city brings people from all corners of the world who are economic migrants first and assimilated locals second. The richness and diversity of the street presents great opportunities for a photographer.
 
 <div class="gallery">
   <a href="https://live.staticflickr.com/65535/53172437245_05e6f69355_3k.jpg" data-ngthumb="https://live.staticflickr.com/65535/53172437245_441f5103ca.jpg"> </a>
@@ -24,7 +24,7 @@ Teeming with 15 million lives and growing everyday, Bangalore is my home. Brimmi
  <a href="https://live.staticflickr.com/65535/52486334699_cea618c4a3_3k.jpg" data-ngthumb="https://live.staticflickr.com/65535/52486334699_002c65ec5d_c.jpg"> </a>
 </div>
 
-A lot of work used black+white film because it was cheaper and I could process it at home. India's streets are often exploding with a kitsch of bright colors and busy patterns that make it challenging. It took me a few years before getting comfortable with photographing in color. Depending on the scene I still like to go back and forth between the two formats.
+A lot of work used black+white film because it was cheaper and I could process it at home. India's streets are often exploding with a kitsch of bright colors and busy patterns that make it challenging to photograph. It took me a few years before getting comfortable shooting in color. Depending on the scene I still like to go back and forth between the two formats.
 
 <div class="gallery">
  <a href="https://live.staticflickr.com/65535/49643629511_6d1e417eb4_3k.jpg" data-ngthumb="https://live.staticflickr.com/65535/49643629511_64a1517fe2_c.jpg"> </a>

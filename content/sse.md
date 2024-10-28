@@ -5,7 +5,7 @@ description = "Behind the scenes"
 extra = {header_img = "https://live.staticflickr.com/65535/52877668475_628dd414a4_3k.jpg"}
 +++
 
-I shot behind-the-scenes of the Kannada movie, Sapta Sagaradaache Ello, directed by Hemant M. Rao. The crew was preparing for a scene on the rooftop of Majestic bar and restaurant. It was an interesting experience turning the lens on the crew many of whom were slumming it through into the early hours of the night. Fighting the lack of sleep but still on their toes to respond to the directors calls for lights, camera and action, turned into a little photo essay of the people involved in the film industry. Countless people work as assitants on filmsets looking to make it mainstream.
+I shot behind-the-scenes of the Kannada movie, Sapta Sagaradaache Ello, directed by Hemant M. Rao. The crew was preparing for a scene on the rooftop of Majestic bar and restaurant. It was an interesting experience turning the lens on the crew many of who were slogging through the night. Fighting back sleep but still on their toes to respond to the director's calls for lights, camera and action. Countless people work as assitants on filmsets looking to make it mainstream. Spending time on the sets gave me a little glimpse into their lives behind the camera.
 
 
 <div class="gallery">
