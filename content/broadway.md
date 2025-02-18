@@ -56,9 +56,9 @@ horse in quiet affection. The white mare whinnies as its handler retires to his
 quarters.
 
 <div class="gallery">
- <a href="https://live.staticflickr.com/65535/54333222651_303057c75d_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333222651_1f70f9e523_t.jpg"></a>
- <a href="https://live.staticflickr.com/65535/54333447683_27412a3d9b_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333447683_8015b54afd_t.jpg"></a>
- <a href="https://live.staticflickr.com/65535/54333632035_61c5ca3a44_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333632035_363029912c_t.jpg"></a>
+ <a href="https://live.staticflickr.com/65535/54333222651_303057c75d_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333222651_1f70f9e523_m.jpg"></a>
+ <a href="https://live.staticflickr.com/65535/54333447683_27412a3d9b_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333447683_8015b54afd_m.jpg"></a>
+ <a href="https://live.staticflickr.com/65535/54333632035_61c5ca3a44_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333632035_363029912c_m.jpg"></a>
  <a href="https://live.staticflickr.com/65535/54333218581_a7a881f1f8_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333218581_5428f9629d_m.jpg"></a>
  <a href="https://live.staticflickr.com/65535/54333217006_27cfae47f9_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54333217006_5b466e1308_m.jpg"></a>
  <a href="https://live.staticflickr.com/65535/54332309347_6ffdd69372_h.jpg" data-ngthumb="https://live.staticflickr.com/65535/54332309347_188703731d_m.jpg"></a>
